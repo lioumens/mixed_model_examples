@@ -20,6 +20,12 @@ This will modify the behavior of R, so that the anova function returns p-values.
 
 This replicates a lot of the functionality of the `lsmeans` statement, i.e. comparisons of marginal means between different groups.
 
+# Getting started
+
+1. Click the green "Clone or download" -> Download zip. Or clone the respository if you have git installed.
+2. Download the appropriate libraries above with the command `install.packages(...)`
+2. Open `mixed.R` and read through the comments as you run the code. Note, some assignment (`variable <- expression`) commands are wrapped with parentheses just to show you the output when you run it.
+
 # Other Resources
 
 This example should give you a good start. If you need more detail in one particula area, here are some places to start.
